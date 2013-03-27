@@ -1,0 +1,4 @@
+---
+remotes:
+  primary: git@github.com:destructuring/bootstrap-getopt
+  secondary: git@bitbucket.org:destructuring/bootstrap-getopt
