@@ -1,0 +1,5 @@
+bin/
+getopt
+getopt.o
+man/
+share/
