@@ -13,7 +13,7 @@ localedir=$(sharedir)/locale
 LIBCGETOPT=1
 
 # Define this to 1 if you do not have the gettext routines
-WITHOUT_GETTEXT=0
+WITHOUT_GETTEXT=1
 
 # For creating the archive
 PACKAGE=getopt
